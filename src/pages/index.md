@@ -35,10 +35,9 @@ sections:
       - title: IoT - Internet de las cosas
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Implementacion de plataformas de monitoreo de sensores, y análisis de
+          datos
         actions:
           - label: Learn More
             url: /features
