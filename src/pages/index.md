@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/368-3683550_smart-home-iot-smart-home-hd-png-download.png
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: |
