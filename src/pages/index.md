@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/297-Converted-small2.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: TDT Top Dominican Technologies
     content: |
       Delivering Solutions
     actions:
