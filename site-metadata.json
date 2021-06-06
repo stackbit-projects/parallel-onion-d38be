@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "green",
     "header": {
-        "logo_img": "images/logo-alt.svg",
+        "logo_img": "images/TDTBallText136x48.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
