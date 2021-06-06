@@ -9,7 +9,7 @@ sections:
     content: |
       Delivering Solutions
     actions:
-      - label: Learn More
+      - label: Ver mas
         url: /features
         style: primary
   - section_id: features
