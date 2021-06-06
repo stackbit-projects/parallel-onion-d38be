@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: IoT - Internet de las cosas
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
